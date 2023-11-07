@@ -1,8 +1,7 @@
-# Assignment
- This is the assignment for the game developer role in Soft Games
+# Demo
+https://thetallwitch.github.io/SGA/
 
-### Run project
-
+# To Run The Project Locally
 Please use this command to install the dependencies:
 ```
 npm install

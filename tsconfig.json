@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "sourceMap": true,
+    "strict": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "outDir": "assets/scripts/dist/",
+    "resolveJsonModule": true
+  },
+  "include": [
+    "assets/scripts/src/"
+  ]
+}
